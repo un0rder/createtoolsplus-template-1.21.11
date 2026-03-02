@@ -1,7 +1,8 @@
 {
   "item.createtoolsplus.cup": "cup",
   "item.createtoolsplus.material.cardboard": "cardboard",
-
+  "block.createtooldplud.msterial.cardboard_block": "cardboard block",
+  "block.createtooldplud.cup_block": "cup block",
   "itemGroup.createtoolsplus_tab": "Create Tools Plus",
   "createtoolsplus.configuration.title": "Create: Tools Plus Configs",
   "createtoolsplus.configuration.section.createtoolsplus.common.toml": "Create: Tools Plus Configs",

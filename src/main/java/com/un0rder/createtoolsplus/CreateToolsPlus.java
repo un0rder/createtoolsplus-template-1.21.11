@@ -1,5 +1,6 @@
 package com.un0rder.createtoolsplus;
 
+import com.un0rder.createtoolsplus.block.ModBlocks;
 import com.un0rder.createtoolsplus.item.ModCreativeModeTabs;
 import com.un0rder.createtoolsplus.item.ModItems;
 import org.slf4j.Logger;
@@ -50,6 +51,7 @@ public class CreateToolsPlus {
         modEventBus.addListener(this::commonSetup);
         ModItems.register(modEventBus);
         ModCreativeModeTabs.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
 
         // Register ourselves for server and other game events we are interested in.

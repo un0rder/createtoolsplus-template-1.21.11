@@ -1,6 +1,7 @@
 package com.un0rder.createtoolsplus.item;
 
 import com.un0rder.createtoolsplus.CreateToolsPlus;
+import com.un0rder.createtoolsplus.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.world.item.CreativeModeTab;
 import net.neoforged.neoforge.registries.DeferredHolder;
@@ -20,6 +21,8 @@ public class ModCreativeModeTabs {
                     .displayItems((parameters, output) -> {
                         output.accept(ModItems.CUP);
                         output.accept(ModItems.CARDBOARD);
+                        output.accept(ModBlocks.CUP_BLOCK);
+                        output.accept(ModBlocks.CARDBOARD_BLOCK);
                     }).build());
     public static void register(IEventBus eventBus) {
         CREATIVE_MODE_TABS.register(eventBus);
