@@ -1,0 +1,13 @@
+{
+  "item.createtoolsplus.cup": "cup",
+  "item.createtoolsplus.material.cardboard": "cardboard",
+
+  "itemGroup.createtoolsplus_tab": "Create Tools Plus",
+  "createtoolsplus.configuration.title": "Create: Tools Plus Configs",
+  "createtoolsplus.configuration.section.createtoolsplus.common.toml": "Create: Tools Plus Configs",
+  "createtoolsplus.configuration.section.createtoolsplus.common.toml.title": "Create: Tools Plus Configs",
+  "createtoolsplus.configuration.items": "Item List",
+  "createtoolsplus.configuration.logDirtBlock": "Log Dirt Block",
+  "createtoolsplus.configuration.magicNumberIntroduction": "Magic Number Text",
+  "createtoolsplus.configuration.magicNumber": "Magic Number"
+}

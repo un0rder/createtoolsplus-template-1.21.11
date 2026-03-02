@@ -1,0 +1,13 @@
+{
+  "item.createtoolsplus.cup": "杯子",
+  "item.createtoolsplus.material.cardboard": "纸板",
+
+  "itemGroup.createtoolsplus_tab": "机械动力：工具扩展",
+  "createtoolsplus.configuration.title": "机械动力：工具扩展 配置",
+  "createtoolsplus.configuration.section.createtoolsplus.common.toml": "机械动力：工具扩展 配置",
+  "createtoolsplus.configuration.section.createtoolsplus.common.toml.title": "机械动力：工具扩展 配置",
+  "createtoolsplus.configuration.items": "物品列表",
+  "createtoolsplus.configuration.logDirtBlock": "记录泥土方块",
+  "createtoolsplus.configuration.magicNumberIntroduction": "魔法数字文本",
+  "createtoolsplus.configuration.magicNumber": "魔法数字"
+}
