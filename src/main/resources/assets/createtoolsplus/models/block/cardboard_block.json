@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "createtoolsplus/cup_block"
+    "all": "createtoolsplus:block/cardboard_block"
   }
 }

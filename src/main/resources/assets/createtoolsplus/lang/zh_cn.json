@@ -1,7 +1,8 @@
 {
   "item.createtoolsplus.cup": "杯子",
   "item.createtoolsplus.material.cardboard": "纸板",
-
+  "block.createtoolsplus.cup_block": "杯子方块",
+  "block.createtoolsplus.cardboard_block": "纸板方块",
   "itemGroup.createtoolsplus_tab": "机械动力：工具扩展",
   "createtoolsplus.configuration.title": "机械动力：工具扩展 配置",
   "createtoolsplus.configuration.section.createtoolsplus.common.toml": "机械动力：工具扩展 配置",

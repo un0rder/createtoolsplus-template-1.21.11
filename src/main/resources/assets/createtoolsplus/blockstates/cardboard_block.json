@@ -1,7 +1,7 @@
 {
   "variants":{
     "": {
-      "model": "createtoolsplus/cardboard_block"
+      "model": "createtoolsplus:block/cardboard_block"
     }
   }
 }
